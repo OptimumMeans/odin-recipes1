@@ -9,17 +9,17 @@
 
 .f {
     text-align: left;
-    font-family: monospace;
+    font-family: monospace, sans-serif;
 }
 
 .c {
     text-align: center;
-    font-family:'Franklin Gothic Medium';
+    font-family:'Franklin Gothic Medium', sans-serif;
 }
 
 .p {
     text-align: right;
-    font-family: 'Arial Narrow Bold';
+    font-family: 'Arial Narrow Bold', sans-serif;
 }
 
 .anchor {
@@ -28,10 +28,10 @@
 }
 
 #ingredient-heading {
-    font-family: monospace;
+    font-family: monospace, sans-serif;
 }
 
 #ingredients {
     font-size: 30px;
-    font-family: monospace;
+    font-family: monospace, sans-serif;
 }
