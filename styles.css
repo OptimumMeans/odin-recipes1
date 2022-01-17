@@ -1,25 +1,29 @@
 /* styles.css */
 
+.f,
+.c,
+.p {
+    font-size:38px;
+    font-weight: bold;
+}
+
 .f {
     text-align: left;
-    font-size: 30px;
     font-family: monospace;
 }
 
 .c {
     text-align: center;
-    font-size: 30px;
     font-family:'Franklin Gothic Medium';
 }
 
 .p {
     text-align: right;
-    font-size: 30px;
     font-family: 'Arial Narrow Bold';
 }
 
 .anchor {
-    font-size: 32px;
+    font-size: 38px;
     font-weight: bold;
 }
 
